@@ -1,0 +1,5666 @@
+[
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8",
+    "object_type": "File",
+    "name": "second_task.py",
+    "size_in_bytes": 2246
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8",
+    "object_type": "File",
+    "name": "third_task.py",
+    "size_in_bytes": 214
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8",
+    "object_type": "Directory",
+    "name": ".idea",
+    "size_in_bytes": 1572
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8",
+    "object_type": "Directory",
+    "name": "venv",
+    "size_in_bytes": 13029212
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\.idea",
+    "object_type": "File",
+    "name": ".gitignore",
+    "size_in_bytes": 50
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\.idea",
+    "object_type": "File",
+    "name": "GB_Python_8.iml",
+    "size_in_bytes": 361
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\.idea",
+    "object_type": "File",
+    "name": "misc.xml",
+    "size_in_bytes": 203
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\.idea",
+    "object_type": "File",
+    "name": "modules.xml",
+    "size_in_bytes": 281
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\.idea",
+    "object_type": "Directory",
+    "name": "inspectionProfiles",
+    "size_in_bytes": 677
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\.idea\\inspectionProfiles",
+    "object_type": "File",
+    "name": "profiles_settings.xml",
+    "size_in_bytes": 174
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\.idea\\inspectionProfiles",
+    "object_type": "File",
+    "name": "Project_Default.xml",
+    "size_in_bytes": 503
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv",
+    "object_type": "File",
+    "name": ".gitignore",
+    "size_in_bytes": 42
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv",
+    "object_type": "File",
+    "name": "pyvenv.cfg",
+    "size_in_bytes": 402
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv",
+    "object_type": "Directory",
+    "name": "Lib",
+    "size_in_bytes": 11633577
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv",
+    "object_type": "Directory",
+    "name": "Scripts",
+    "size_in_bytes": 1395191
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib",
+    "object_type": "Directory",
+    "name": "site-packages",
+    "size_in_bytes": 11633577
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "File",
+    "name": "distutils-precedence.pth",
+    "size_in_bytes": 151
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "File",
+    "name": "pip-22.3.1.virtualenv",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "File",
+    "name": "setuptools-65.5.1.virtualenv",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "File",
+    "name": "wheel-0.38.4.virtualenv",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "File",
+    "name": "_virtualenv.pth",
+    "size_in_bytes": 18
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "File",
+    "name": "_virtualenv.py",
+    "size_in_bytes": 5770
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "pip",
+    "size_in_bytes": 6847400
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "pip-22.3.1.dist-info",
+    "size_in_bytes": 76670
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "pkg_resources",
+    "size_in_bytes": 1510402
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "setuptools",
+    "size_in_bytes": 3027307
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "setuptools-65.5.1.dist-info",
+    "size_in_bytes": 45895
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "wheel",
+    "size_in_bytes": 95910
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "wheel-0.38.4.dist-info",
+    "size_in_bytes": 6262
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "_distutils_hack",
+    "size_in_bytes": 13752
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 4040
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip",
+    "object_type": "File",
+    "name": "py.typed",
+    "size_in_bytes": 286
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 357
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip",
+    "object_type": "File",
+    "name": "__main__.py",
+    "size_in_bytes": 1198
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip",
+    "object_type": "File",
+    "name": "__pip-runner__.py",
+    "size_in_bytes": 1444
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip",
+    "object_type": "Directory",
+    "name": "_internal",
+    "size_in_bytes": 1035611
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip",
+    "object_type": "Directory",
+    "name": "_vendor",
+    "size_in_bytes": 5808504
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "build_env.py",
+    "size_in_bytes": 10234
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "cache.py",
+    "size_in_bytes": 10734
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "configuration.py",
+    "size_in_bytes": 13529
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "exceptions.py",
+    "size_in_bytes": 20942
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "main.py",
+    "size_in_bytes": 340
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "pyproject.py",
+    "size_in_bytes": 7074
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "self_outdated_check.py",
+    "size_in_bytes": 8020
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "wheel_builder.py",
+    "size_in_bytes": 13079
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 573
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "cli",
+    "size_in_bytes": 87806
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "commands",
+    "size_in_bytes": 119848
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "distributions",
+    "size_in_bytes": 10466
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "index",
+    "size_in_bytes": 60686
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "locations",
+    "size_in_bytes": 34294
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "metadata",
+    "size_in_bytes": 59552
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "models",
+    "size_in_bytes": 45927
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "network",
+    "size_in_bytes": 52426
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "operations",
+    "size_in_bytes": 87624
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "req",
+    "size_in_bytes": 99567
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "resolution",
+    "size_in_bytes": 111906
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "utils",
+    "size_in_bytes": 118977
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal",
+    "object_type": "Directory",
+    "name": "vcs",
+    "size_in_bytes": 62007
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "autocompletion.py",
+    "size_in_bytes": 6676
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "base_command.py",
+    "size_in_bytes": 7842
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "cmdoptions.py",
+    "size_in_bytes": 29381
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "command_context.py",
+    "size_in_bytes": 774
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "main.py",
+    "size_in_bytes": 2472
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "main_parser.py",
+    "size_in_bytes": 4338
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "parser.py",
+    "size_in_bytes": 10817
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "progress_bars.py",
+    "size_in_bytes": 1968
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "req_command.py",
+    "size_in_bytes": 18172
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "spinners.py",
+    "size_in_bytes": 5118
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "status_codes.py",
+    "size_in_bytes": 116
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\cli",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 132
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "cache.py",
+    "size_in_bytes": 7582
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "check.py",
+    "size_in_bytes": 1685
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "completion.py",
+    "size_in_bytes": 4129
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "configuration.py",
+    "size_in_bytes": 9815
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "debug.py",
+    "size_in_bytes": 6573
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "download.py",
+    "size_in_bytes": 5289
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "freeze.py",
+    "size_in_bytes": 2951
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "hash.py",
+    "size_in_bytes": 1703
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "help.py",
+    "size_in_bytes": 1132
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "index.py",
+    "size_in_bytes": 4762
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "inspect.py",
+    "size_in_bytes": 3374
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "install.py",
+    "size_in_bytes": 31726
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "list.py",
+    "size_in_bytes": 12343
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "search.py",
+    "size_in_bytes": 5697
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "show.py",
+    "size_in_bytes": 6129
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "uninstall.py",
+    "size_in_bytes": 3680
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "wheel.py",
+    "size_in_bytes": 7396
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\commands",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 3882
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\distributions",
+    "object_type": "File",
+    "name": "base.py",
+    "size_in_bytes": 1221
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\distributions",
+    "object_type": "File",
+    "name": "installed.py",
+    "size_in_bytes": 729
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\distributions",
+    "object_type": "File",
+    "name": "sdist.py",
+    "size_in_bytes": 6494
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\distributions",
+    "object_type": "File",
+    "name": "wheel.py",
+    "size_in_bytes": 1164
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\distributions",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 858
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\index",
+    "object_type": "File",
+    "name": "collector.py",
+    "size_in_bytes": 16503
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\index",
+    "object_type": "File",
+    "name": "package_finder.py",
+    "size_in_bytes": 37596
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\index",
+    "object_type": "File",
+    "name": "sources.py",
+    "size_in_bytes": 6557
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\index",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 30
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\locations",
+    "object_type": "File",
+    "name": "base.py",
+    "size_in_bytes": 2573
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\locations",
+    "object_type": "File",
+    "name": "_distutils.py",
+    "size_in_bytes": 6302
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\locations",
+    "object_type": "File",
+    "name": "_sysconfig.py",
+    "size_in_bytes": 7867
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\locations",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 17552
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata",
+    "object_type": "File",
+    "name": "base.py",
+    "size_in_bytes": 25277
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata",
+    "object_type": "File",
+    "name": "pkg_resources.py",
+    "size_in_bytes": 9773
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata",
+    "object_type": "File",
+    "name": "_json.py",
+    "size_in_bytes": 2595
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 4280
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata",
+    "object_type": "Directory",
+    "name": "importlib",
+    "size_in_bytes": 17627
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+    "object_type": "File",
+    "name": "_compat.py",
+    "size_in_bytes": 1882
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+    "object_type": "File",
+    "name": "_dists.py",
+    "size_in_bytes": 8181
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+    "object_type": "File",
+    "name": "_envs.py",
+    "size_in_bytes": 7457
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 107
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "candidate.py",
+    "size_in_bytes": 990
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "direct_url.py",
+    "size_in_bytes": 5877
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "format_control.py",
+    "size_in_bytes": 2520
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "index.py",
+    "size_in_bytes": 1030
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "installation_report.py",
+    "size_in_bytes": 2617
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "link.py",
+    "size_in_bytes": 18083
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "scheme.py",
+    "size_in_bytes": 738
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "search_scope.py",
+    "size_in_bytes": 4644
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "selection_prefs.py",
+    "size_in_bytes": 1907
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "target_python.py",
+    "size_in_bytes": 3858
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "wheel.py",
+    "size_in_bytes": 3600
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\models",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 63
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\network",
+    "object_type": "File",
+    "name": "auth.py",
+    "size_in_bytes": 12190
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\network",
+    "object_type": "File",
+    "name": "cache.py",
+    "size_in_bytes": 2145
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\network",
+    "object_type": "File",
+    "name": "download.py",
+    "size_in_bytes": 6096
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\network",
+    "object_type": "File",
+    "name": "lazy_wheel.py",
+    "size_in_bytes": 7638
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\network",
+    "object_type": "File",
+    "name": "session.py",
+    "size_in_bytes": 18443
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\network",
+    "object_type": "File",
+    "name": "utils.py",
+    "size_in_bytes": 4073
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\network",
+    "object_type": "File",
+    "name": "xmlrpc.py",
+    "size_in_bytes": 1791
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\network",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 50
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations",
+    "object_type": "File",
+    "name": "check.py",
+    "size_in_bytes": 5109
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations",
+    "object_type": "File",
+    "name": "freeze.py",
+    "size_in_bytes": 9784
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations",
+    "object_type": "File",
+    "name": "prepare.py",
+    "size_in_bytes": 25091
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations",
+    "object_type": "Directory",
+    "name": "build",
+    "size_in_bytes": 14723
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations",
+    "object_type": "Directory",
+    "name": "install",
+    "size_in_bytes": 32917
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+    "object_type": "File",
+    "name": "build_tracker.py",
+    "size_in_bytes": 4133
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+    "object_type": "File",
+    "name": "metadata.py",
+    "size_in_bytes": 1404
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+    "object_type": "File",
+    "name": "metadata_editable.py",
+    "size_in_bytes": 1456
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+    "object_type": "File",
+    "name": "metadata_legacy.py",
+    "size_in_bytes": 2198
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+    "object_type": "File",
+    "name": "wheel.py",
+    "size_in_bytes": 1063
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+    "object_type": "File",
+    "name": "wheel_editable.py",
+    "size_in_bytes": 1405
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+    "object_type": "File",
+    "name": "wheel_legacy.py",
+    "size_in_bytes": 3064
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+    "object_type": "File",
+    "name": "editable_legacy.py",
+    "size_in_bytes": 1354
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+    "object_type": "File",
+    "name": "legacy.py",
+    "size_in_bytes": 4105
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+    "object_type": "File",
+    "name": "wheel.py",
+    "size_in_bytes": 27407
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 51
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\req",
+    "object_type": "File",
+    "name": "constructors.py",
+    "size_in_bytes": 16611
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\req",
+    "object_type": "File",
+    "name": "req_file.py",
+    "size_in_bytes": 17646
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\req",
+    "object_type": "File",
+    "name": "req_install.py",
+    "size_in_bytes": 35600
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\req",
+    "object_type": "File",
+    "name": "req_set.py",
+    "size_in_bytes": 2858
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\req",
+    "object_type": "File",
+    "name": "req_uninstall.py",
+    "size_in_bytes": 24045
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\req",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 2807
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution",
+    "object_type": "File",
+    "name": "base.py",
+    "size_in_bytes": 583
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution",
+    "object_type": "Directory",
+    "name": "legacy",
+    "size_in_bytes": 24129
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution",
+    "object_type": "Directory",
+    "name": "resolvelib",
+    "size_in_bytes": 87194
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy",
+    "object_type": "File",
+    "name": "resolver.py",
+    "size_in_bytes": 24129
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "base.py",
+    "size_in_bytes": 5220
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "candidates.py",
+    "size_in_bytes": 18963
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "factory.py",
+    "size_in_bytes": 27878
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "found_candidates.py",
+    "size_in_bytes": 5705
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "provider.py",
+    "size_in_bytes": 9914
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "reporter.py",
+    "size_in_bytes": 2526
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "requirements.py",
+    "size_in_bytes": 5455
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "resolver.py",
+    "size_in_bytes": 11533
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "appdirs.py",
+    "size_in_bytes": 1665
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "compat.py",
+    "size_in_bytes": 1884
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "compatibility_tags.py",
+    "size_in_bytes": 5377
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "datetime.py",
+    "size_in_bytes": 242
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "deprecation.py",
+    "size_in_bytes": 5764
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "direct_url_helpers.py",
+    "size_in_bytes": 3206
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "distutils_args.py",
+    "size_in_bytes": 1115
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "egg_link.py",
+    "size_in_bytes": 2203
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "encoding.py",
+    "size_in_bytes": 1169
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "entrypoints.py",
+    "size_in_bytes": 3064
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "filesystem.py",
+    "size_in_bytes": 5122
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "filetypes.py",
+    "size_in_bytes": 716
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "glibc.py",
+    "size_in_bytes": 3110
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "hashes.py",
+    "size_in_bytes": 4831
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "inject_securetransport.py",
+    "size_in_bytes": 795
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "logging.py",
+    "size_in_bytes": 11632
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "misc.py",
+    "size_in_bytes": 21617
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "models.py",
+    "size_in_bytes": 1193
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "packaging.py",
+    "size_in_bytes": 2108
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "setuptools_build.py",
+    "size_in_bytes": 5662
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "subprocess.py",
+    "size_in_bytes": 9197
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "temp_dir.py",
+    "size_in_bytes": 7702
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "unpacking.py",
+    "size_in_bytes": 8821
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "urls.py",
+    "size_in_bytes": 1759
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "virtualenv.py",
+    "size_in_bytes": 3459
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "wheel.py",
+    "size_in_bytes": 4549
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "_log.py",
+    "size_in_bytes": 1015
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\utils",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\vcs",
+    "object_type": "File",
+    "name": "bazaar.py",
+    "size_in_bytes": 3518
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\vcs",
+    "object_type": "File",
+    "name": "git.py",
+    "size_in_bytes": 18116
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\vcs",
+    "object_type": "File",
+    "name": "mercurial.py",
+    "size_in_bytes": 5238
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\vcs",
+    "object_type": "File",
+    "name": "subversion.py",
+    "size_in_bytes": 11728
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\vcs",
+    "object_type": "File",
+    "name": "versioncontrol.py",
+    "size_in_bytes": 22811
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_internal\\vcs",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 596
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "File",
+    "name": "six.py",
+    "size_in_bytes": 34549
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "File",
+    "name": "typing_extensions.py",
+    "size_in_bytes": 80114
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "File",
+    "name": "vendor.txt",
+    "size_in_bytes": 469
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 4966
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "cachecontrol",
+    "size_in_bytes": 48131
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "certifi",
+    "size_in_bytes": 290998
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "chardet",
+    "size_in_bytes": 1092504
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "colorama",
+    "size_in_bytes": 27348
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "distlib",
+    "size_in_bytes": 1139219
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "distro",
+    "size_in_bytes": 49886
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "idna",
+    "size_in_bytes": 270310
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "msgpack",
+    "size_in_bytes": 42850
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "packaging",
+    "size_in_bytes": 96292
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "pep517",
+    "size_in_bytes": 47390
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "pkg_resources",
+    "size_in_bytes": 108849
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "platformdirs",
+    "size_in_bytes": 39067
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "pygments",
+    "size_in_bytes": 479266
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "pyparsing",
+    "size_in_bytes": 370049
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "requests",
+    "size_in_bytes": 180427
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "resolvelib",
+    "size_in_bytes": 30534
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "rich",
+    "size_in_bytes": 878477
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "tenacity",
+    "size_in_bytes": 50281
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "tomli",
+    "size_in_bytes": 26226
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "urllib3",
+    "size_in_bytes": 388569
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor",
+    "object_type": "Directory",
+    "name": "webencodings",
+    "size_in_bytes": 31733
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "adapter.py",
+    "size_in_bytes": 5033
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "cache.py",
+    "size_in_bytes": 1535
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "compat.py",
+    "size_in_bytes": 778
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "controller.py",
+    "size_in_bytes": 16416
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "filewrapper.py",
+    "size_in_bytes": 3946
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "heuristics.py",
+    "size_in_bytes": 4154
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "serialize.py",
+    "size_in_bytes": 7105
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "wrapper.py",
+    "size_in_bytes": 774
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "_cmd.py",
+    "size_in_bytes": 1379
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 465
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol",
+    "object_type": "Directory",
+    "name": "caches",
+    "size_in_bytes": 6546
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches",
+    "object_type": "File",
+    "name": "file_cache.py",
+    "size_in_bytes": 5271
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches",
+    "object_type": "File",
+    "name": "redis_cache.py",
+    "size_in_bytes": 1033
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 242
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi",
+    "object_type": "File",
+    "name": "cacert.pem",
+    "size_in_bytes": 286370
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi",
+    "object_type": "File",
+    "name": "core.py",
+    "size_in_bytes": 4279
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 94
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi",
+    "object_type": "File",
+    "name": "__main__.py",
+    "size_in_bytes": 255
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "big5freq.py",
+    "size_in_bytes": 31274
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "big5prober.py",
+    "size_in_bytes": 1741
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "chardistribution.py",
+    "size_in_bytes": 9608
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "charsetgroupprober.py",
+    "size_in_bytes": 3817
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "charsetprober.py",
+    "size_in_bytes": 4801
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "codingstatemachine.py",
+    "size_in_bytes": 3559
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "cp949prober.py",
+    "size_in_bytes": 1838
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "enums.py",
+    "size_in_bytes": 1619
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "escprober.py",
+    "size_in_bytes": 3864
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "escsm.py",
+    "size_in_bytes": 12021
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "eucjpprober.py",
+    "size_in_bytes": 3676
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "euckrfreq.py",
+    "size_in_bytes": 13566
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "euckrprober.py",
+    "size_in_bytes": 1731
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "euctwfreq.py",
+    "size_in_bytes": 36913
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "euctwprober.py",
+    "size_in_bytes": 1731
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "gb2312freq.py",
+    "size_in_bytes": 20735
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "gb2312prober.py",
+    "size_in_bytes": 1737
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "hebrewprober.py",
+    "size_in_bytes": 13919
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "jisfreq.py",
+    "size_in_bytes": 25796
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "johabfreq.py",
+    "size_in_bytes": 42498
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "johabprober.py",
+    "size_in_bytes": 1730
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "jpcntx.py",
+    "size_in_bytes": 26797
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "langbulgarianmodel.py",
+    "size_in_bytes": 104562
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "langgreekmodel.py",
+    "size_in_bytes": 98484
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "langhebrewmodel.py",
+    "size_in_bytes": 98196
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "langhungarianmodel.py",
+    "size_in_bytes": 101363
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "langrussianmodel.py",
+    "size_in_bytes": 128035
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "langthaimodel.py",
+    "size_in_bytes": 102774
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "langturkishmodel.py",
+    "size_in_bytes": 95372
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "latin1prober.py",
+    "size_in_bytes": 5260
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "mbcharsetprober.py",
+    "size_in_bytes": 3367
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "mbcsgroupprober.py",
+    "size_in_bytes": 2056
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "mbcssm.py",
+    "size_in_bytes": 30068
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "sbcharsetprober.py",
+    "size_in_bytes": 6199
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "sbcsgroupprober.py",
+    "size_in_bytes": 4129
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "sjisprober.py",
+    "size_in_bytes": 3749
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "universaldetector.py",
+    "size_in_bytes": 13288
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "utf1632prober.py",
+    "size_in_bytes": 8289
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "utf8prober.py",
+    "size_in_bytes": 2709
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "version.py",
+    "size_in_bytes": 242
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 3705
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "Directory",
+    "name": "cli",
+    "size_in_bytes": 2406
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet",
+    "object_type": "Directory",
+    "name": "metadata",
+    "size_in_bytes": 13280
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli",
+    "object_type": "File",
+    "name": "chardetect.py",
+    "size_in_bytes": 2406
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata",
+    "object_type": "File",
+    "name": "languages.py",
+    "size_in_bytes": 13280
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama",
+    "object_type": "File",
+    "name": "ansi.py",
+    "size_in_bytes": 2522
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama",
+    "object_type": "File",
+    "name": "ansitowin32.py",
+    "size_in_bytes": 10830
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama",
+    "object_type": "File",
+    "name": "initialise.py",
+    "size_in_bytes": 1915
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama",
+    "object_type": "File",
+    "name": "win32.py",
+    "size_in_bytes": 5404
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama",
+    "object_type": "File",
+    "name": "winterm.py",
+    "size_in_bytes": 6438
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 239
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "compat.py",
+    "size_in_bytes": 41259
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "database.py",
+    "size_in_bytes": 51697
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "index.py",
+    "size_in_bytes": 20834
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "locators.py",
+    "size_in_bytes": 51991
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "manifest.py",
+    "size_in_bytes": 14811
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "markers.py",
+    "size_in_bytes": 5058
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "metadata.py",
+    "size_in_bytes": 39801
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "resources.py",
+    "size_in_bytes": 10820
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "scripts.py",
+    "size_in_bytes": 18102
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "t32.exe",
+    "size_in_bytes": 97792
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "t64-arm.exe",
+    "size_in_bytes": 182784
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "t64.exe",
+    "size_in_bytes": 108032
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "util.py",
+    "size_in_bytes": 66262
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "version.py",
+    "size_in_bytes": 23513
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "w32.exe",
+    "size_in_bytes": 91648
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "w64-arm.exe",
+    "size_in_bytes": 168448
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "w64.exe",
+    "size_in_bytes": 101888
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "wheel.py",
+    "size_in_bytes": 43898
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 581
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distro",
+    "object_type": "File",
+    "name": "distro.py",
+    "size_in_bytes": 48841
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distro",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 981
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\distro",
+    "object_type": "File",
+    "name": "__main__.py",
+    "size_in_bytes": 64
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\idna",
+    "object_type": "File",
+    "name": "codec.py",
+    "size_in_bytes": 3374
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\idna",
+    "object_type": "File",
+    "name": "compat.py",
+    "size_in_bytes": 321
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\idna",
+    "object_type": "File",
+    "name": "core.py",
+    "size_in_bytes": 12950
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\idna",
+    "object_type": "File",
+    "name": "idnadata.py",
+    "size_in_bytes": 44375
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\idna",
+    "object_type": "File",
+    "name": "intranges.py",
+    "size_in_bytes": 1881
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\idna",
+    "object_type": "File",
+    "name": "package_data.py",
+    "size_in_bytes": 21
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\idna",
+    "object_type": "File",
+    "name": "uts46data.py",
+    "size_in_bytes": 206539
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\idna",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 849
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+    "object_type": "File",
+    "name": "exceptions.py",
+    "size_in_bytes": 1081
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+    "object_type": "File",
+    "name": "ext.py",
+    "size_in_bytes": 6080
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+    "object_type": "File",
+    "name": "fallback.py",
+    "size_in_bytes": 34557
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 1132
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "markers.py",
+    "size_in_bytes": 8487
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "requirements.py",
+    "size_in_bytes": 4676
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "specifiers.py",
+    "size_in_bytes": 30110
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "tags.py",
+    "size_in_bytes": 15699
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "utils.py",
+    "size_in_bytes": 4200
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "version.py",
+    "size_in_bytes": 14665
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_manylinux.py",
+    "size_in_bytes": 11488
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_musllinux.py",
+    "size_in_bytes": 4378
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_structures.py",
+    "size_in_bytes": 1431
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "__about__.py",
+    "size_in_bytes": 661
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 497
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "build.py",
+    "size_in_bytes": 3443
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "check.py",
+    "size_in_bytes": 6083
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "colorlog.py",
+    "size_in_bytes": 3994
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "dirtools.py",
+    "size_in_bytes": 607
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "envbuild.py",
+    "size_in_bytes": 6081
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "meta.py",
+    "size_in_bytes": 2520
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "wrappers.py",
+    "size_in_bytes": 12721
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "_compat.py",
+    "size_in_bytes": 138
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 130
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517",
+    "object_type": "Directory",
+    "name": "in_process",
+    "size_in_bytes": 11673
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process",
+    "object_type": "File",
+    "name": "_in_process.py",
+    "size_in_bytes": 10801
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pep517\\in_process",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 872
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources",
+    "object_type": "File",
+    "name": "py31compat.py",
+    "size_in_bytes": 562
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 108287
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+    "object_type": "File",
+    "name": "android.py",
+    "size_in_bytes": 4068
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+    "object_type": "File",
+    "name": "api.py",
+    "size_in_bytes": 4910
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+    "object_type": "File",
+    "name": "macos.py",
+    "size_in_bytes": 2655
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+    "object_type": "File",
+    "name": "unix.py",
+    "size_in_bytes": 6910
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+    "object_type": "File",
+    "name": "version.py",
+    "size_in_bytes": 78
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+    "object_type": "File",
+    "name": "windows.py",
+    "size_in_bytes": 6439
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 12831
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs",
+    "object_type": "File",
+    "name": "__main__.py",
+    "size_in_bytes": 1176
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "cmdline.py",
+    "size_in_bytes": 23685
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "console.py",
+    "size_in_bytes": 1697
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "filter.py",
+    "size_in_bytes": 1938
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "formatter.py",
+    "size_in_bytes": 2917
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "lexer.py",
+    "size_in_bytes": 32005
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "modeline.py",
+    "size_in_bytes": 986
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "plugin.py",
+    "size_in_bytes": 2591
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "regexopt.py",
+    "size_in_bytes": 3072
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "scanner.py",
+    "size_in_bytes": 3092
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "sphinxext.py",
+    "size_in_bytes": 4630
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "style.py",
+    "size_in_bytes": 6257
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "token.py",
+    "size_in_bytes": 6184
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "unistring.py",
+    "size_in_bytes": 63187
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "util.py",
+    "size_in_bytes": 9110
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 2999
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "File",
+    "name": "__main__.py",
+    "size_in_bytes": 353
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "Directory",
+    "name": "filters",
+    "size_in_bytes": 40386
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "Directory",
+    "name": "formatters",
+    "size_in_bytes": 135976
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "Directory",
+    "name": "lexers",
+    "size_in_bytes": 134782
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments",
+    "object_type": "Directory",
+    "name": "styles",
+    "size_in_bytes": 3419
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 40386
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "bbcode.py",
+    "size_in_bytes": 3314
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "groff.py",
+    "size_in_bytes": 5086
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "html.py",
+    "size_in_bytes": 35441
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "img.py",
+    "size_in_bytes": 21938
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "irc.py",
+    "size_in_bytes": 5871
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "latex.py",
+    "size_in_bytes": 19351
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "other.py",
+    "size_in_bytes": 5073
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "pangomarkup.py",
+    "size_in_bytes": 2212
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "rtf.py",
+    "size_in_bytes": 5014
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "svg.py",
+    "size_in_bytes": 7335
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "terminal.py",
+    "size_in_bytes": 4674
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "terminal256.py",
+    "size_in_bytes": 11753
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "_mapping.py",
+    "size_in_bytes": 4104
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 4810
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers",
+    "object_type": "File",
+    "name": "python.py",
+    "size_in_bytes": 53376
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers",
+    "object_type": "File",
+    "name": "_mapping.py",
+    "size_in_bytes": 70232
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 11174
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 3419
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "actions.py",
+    "size_in_bytes": 6426
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "common.py",
+    "size_in_bytes": 12936
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "core.py",
+    "size_in_bytes": 213344
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "exceptions.py",
+    "size_in_bytes": 9023
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "helpers.py",
+    "size_in_bytes": 39129
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "results.py",
+    "size_in_bytes": 25341
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "testing.py",
+    "size_in_bytes": 13402
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "unicode.py",
+    "size_in_bytes": 10787
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "util.py",
+    "size_in_bytes": 6805
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 9171
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing",
+    "object_type": "Directory",
+    "name": "diagram",
+    "size_in_bytes": 23685
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 23685
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "adapters.py",
+    "size_in_bytes": 21443
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "api.py",
+    "size_in_bytes": 6377
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "auth.py",
+    "size_in_bytes": 10187
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "certs.py",
+    "size_in_bytes": 575
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "compat.py",
+    "size_in_bytes": 1286
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "cookies.py",
+    "size_in_bytes": 18560
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "exceptions.py",
+    "size_in_bytes": 3823
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "help.py",
+    "size_in_bytes": 3879
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "hooks.py",
+    "size_in_bytes": 733
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "models.py",
+    "size_in_bytes": 35287
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "packages.py",
+    "size_in_bytes": 695
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "sessions.py",
+    "size_in_bytes": 30180
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "status_codes.py",
+    "size_in_bytes": 4235
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "structures.py",
+    "size_in_bytes": 2912
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "utils.py",
+    "size_in_bytes": 33240
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "_internal_utils.py",
+    "size_in_bytes": 1397
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 5178
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\requests",
+    "object_type": "File",
+    "name": "__version__.py",
+    "size_in_bytes": 440
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+    "object_type": "File",
+    "name": "providers.py",
+    "size_in_bytes": 5872
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+    "object_type": "File",
+    "name": "reporters.py",
+    "size_in_bytes": 1583
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+    "object_type": "File",
+    "name": "resolvers.py",
+    "size_in_bytes": 17592
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+    "object_type": "File",
+    "name": "structs.py",
+    "size_in_bytes": 4794
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 537
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib",
+    "object_type": "Directory",
+    "name": "compat",
+    "size_in_bytes": 156
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat",
+    "object_type": "File",
+    "name": "collections_abc.py",
+    "size_in_bytes": 156
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "abc.py",
+    "size_in_bytes": 890
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "align.py",
+    "size_in_bytes": 10368
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "ansi.py",
+    "size_in_bytes": 6820
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "bar.py",
+    "size_in_bytes": 3264
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "box.py",
+    "size_in_bytes": 9864
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "cells.py",
+    "size_in_bytes": 4503
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "color.py",
+    "size_in_bytes": 17957
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "color_triplet.py",
+    "size_in_bytes": 1054
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "columns.py",
+    "size_in_bytes": 7131
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "console.py",
+    "size_in_bytes": 95885
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "constrain.py",
+    "size_in_bytes": 1288
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "containers.py",
+    "size_in_bytes": 5497
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "control.py",
+    "size_in_bytes": 6630
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "default_styles.py",
+    "size_in_bytes": 7954
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "diagnose.py",
+    "size_in_bytes": 972
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "emoji.py",
+    "size_in_bytes": 2501
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "errors.py",
+    "size_in_bytes": 642
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "filesize.py",
+    "size_in_bytes": 2507
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "file_proxy.py",
+    "size_in_bytes": 1616
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "highlighter.py",
+    "size_in_bytes": 9585
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "json.py",
+    "size_in_bytes": 5051
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "jupyter.py",
+    "size_in_bytes": 3252
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "layout.py",
+    "size_in_bytes": 14074
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "live.py",
+    "size_in_bytes": 14172
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "live_render.py",
+    "size_in_bytes": 3667
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "logging.py",
+    "size_in_bytes": 11471
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "markup.py",
+    "size_in_bytes": 8198
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "measure.py",
+    "size_in_bytes": 5305
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "padding.py",
+    "size_in_bytes": 4970
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "pager.py",
+    "size_in_bytes": 828
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "palette.py",
+    "size_in_bytes": 3396
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "panel.py",
+    "size_in_bytes": 8744
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "pretty.py",
+    "size_in_bytes": 36576
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "progress.py",
+    "size_in_bytes": 59746
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "progress_bar.py",
+    "size_in_bytes": 8161
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "prompt.py",
+    "size_in_bytes": 11303
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "protocol.py",
+    "size_in_bytes": 1391
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "region.py",
+    "size_in_bytes": 166
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "repr.py",
+    "size_in_bytes": 4449
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "rule.py",
+    "size_in_bytes": 4773
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "scope.py",
+    "size_in_bytes": 2842
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "screen.py",
+    "size_in_bytes": 1591
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "segment.py",
+    "size_in_bytes": 24224
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "spinner.py",
+    "size_in_bytes": 4374
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "status.py",
+    "size_in_bytes": 4425
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "style.py",
+    "size_in_bytes": 26240
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "styled.py",
+    "size_in_bytes": 1258
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "syntax.py",
+    "size_in_bytes": 34697
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "table.py",
+    "size_in_bytes": 39515
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "terminal_theme.py",
+    "size_in_bytes": 3370
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "text.py",
+    "size_in_bytes": 44666
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "theme.py",
+    "size_in_bytes": 3627
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "themes.py",
+    "size_in_bytes": 102
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "traceback.py",
+    "size_in_bytes": 26060
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "tree.py",
+    "size_in_bytes": 9169
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_cell_widths.py",
+    "size_in_bytes": 10096
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_emoji_codes.py",
+    "size_in_bytes": 140235
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_emoji_replace.py",
+    "size_in_bytes": 1064
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_export_format.py",
+    "size_in_bytes": 2114
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_extension.py",
+    "size_in_bytes": 265
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_inspect.py",
+    "size_in_bytes": 9695
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_log_render.py",
+    "size_in_bytes": 3225
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_loop.py",
+    "size_in_bytes": 1236
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_palettes.py",
+    "size_in_bytes": 7063
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_pick.py",
+    "size_in_bytes": 423
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_ratio.py",
+    "size_in_bytes": 5472
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_spinners.py",
+    "size_in_bytes": 19919
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_stack.py",
+    "size_in_bytes": 351
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_timer.py",
+    "size_in_bytes": 417
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_win32_console.py",
+    "size_in_bytes": 22820
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_windows.py",
+    "size_in_bytes": 1926
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_windows_renderer.py",
+    "size_in_bytes": 2783
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "_wrap.py",
+    "size_in_bytes": 1840
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 5944
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\rich",
+    "object_type": "File",
+    "name": "__main__.py",
+    "size_in_bytes": 8808
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "after.py",
+    "size_in_bytes": 1496
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "before.py",
+    "size_in_bytes": 1376
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "before_sleep.py",
+    "size_in_bytes": 1908
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "nap.py",
+    "size_in_bytes": 1383
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "retry.py",
+    "size_in_bytes": 7550
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "stop.py",
+    "size_in_bytes": 2790
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "tornadoweb.py",
+    "size_in_bytes": 2145
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "wait.py",
+    "size_in_bytes": 8011
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "_asyncio.py",
+    "size_in_bytes": 3314
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "_utils.py",
+    "size_in_bytes": 1944
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 18364
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli",
+    "object_type": "File",
+    "name": "_parser.py",
+    "size_in_bytes": 22633
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli",
+    "object_type": "File",
+    "name": "_re.py",
+    "size_in_bytes": 2943
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli",
+    "object_type": "File",
+    "name": "_types.py",
+    "size_in_bytes": 254
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 396
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "connection.py",
+    "size_in_bytes": 20070
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "connectionpool.py",
+    "size_in_bytes": 39093
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "exceptions.py",
+    "size_in_bytes": 8217
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "fields.py",
+    "size_in_bytes": 8579
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "filepost.py",
+    "size_in_bytes": 2440
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "poolmanager.py",
+    "size_in_bytes": 19786
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "request.py",
+    "size_in_bytes": 5985
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "response.py",
+    "size_in_bytes": 30109
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "_collections.py",
+    "size_in_bytes": 10811
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "_version.py",
+    "size_in_bytes": 64
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 3333
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "Directory",
+    "name": "contrib",
+    "size_in_bytes": 106810
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "Directory",
+    "name": "packages",
+    "size_in_bytes": 36082
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3",
+    "object_type": "Directory",
+    "name": "util",
+    "size_in_bytes": 97190
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+    "object_type": "File",
+    "name": "appengine.py",
+    "size_in_bytes": 11034
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+    "object_type": "File",
+    "name": "ntlmpool.py",
+    "size_in_bytes": 4538
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+    "object_type": "File",
+    "name": "pyopenssl.py",
+    "size_in_bytes": 17182
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+    "object_type": "File",
+    "name": "securetransport.py",
+    "size_in_bytes": 34448
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+    "object_type": "File",
+    "name": "socks.py",
+    "size_in_bytes": 7097
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+    "object_type": "File",
+    "name": "_appengine_environ.py",
+    "size_in_bytes": 957
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+    "object_type": "Directory",
+    "name": "_securetransport",
+    "size_in_bytes": 31554
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport",
+    "object_type": "File",
+    "name": "bindings.py",
+    "size_in_bytes": 17632
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport",
+    "object_type": "File",
+    "name": "low_level.py",
+    "size_in_bytes": 13922
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages",
+    "object_type": "File",
+    "name": "six.py",
+    "size_in_bytes": 34665
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages",
+    "object_type": "Directory",
+    "name": "backports",
+    "size_in_bytes": 1417
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports",
+    "object_type": "File",
+    "name": "makefile.py",
+    "size_in_bytes": 1417
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "connection.py",
+    "size_in_bytes": 4901
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "proxy.py",
+    "size_in_bytes": 1605
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "queue.py",
+    "size_in_bytes": 498
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "request.py",
+    "size_in_bytes": 3997
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "response.py",
+    "size_in_bytes": 3510
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "retry.py",
+    "size_in_bytes": 22001
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "ssltransport.py",
+    "size_in_bytes": 6895
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "ssl_.py",
+    "size_in_bytes": 17177
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "ssl_match_hostname.py",
+    "size_in_bytes": 5758
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "timeout.py",
+    "size_in_bytes": 10003
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "url.py",
+    "size_in_bytes": 14287
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "wait.py",
+    "size_in_bytes": 5403
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 1155
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+    "object_type": "File",
+    "name": "labels.py",
+    "size_in_bytes": 8979
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+    "object_type": "File",
+    "name": "mklabels.py",
+    "size_in_bytes": 1305
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+    "object_type": "File",
+    "name": "tests.py",
+    "size_in_bytes": 6563
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+    "object_type": "File",
+    "name": "x_user_defined.py",
+    "size_in_bytes": 4307
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 10579
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip-22.3.1.dist-info",
+    "object_type": "File",
+    "name": "entry_points.txt",
+    "size_in_bytes": 125
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip-22.3.1.dist-info",
+    "object_type": "File",
+    "name": "INSTALLER",
+    "size_in_bytes": 5
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip-22.3.1.dist-info",
+    "object_type": "File",
+    "name": "LICENSE.txt",
+    "size_in_bytes": 1093
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip-22.3.1.dist-info",
+    "object_type": "File",
+    "name": "METADATA",
+    "size_in_bytes": 4072
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip-22.3.1.dist-info",
+    "object_type": "File",
+    "name": "RECORD",
+    "size_in_bytes": 71279
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip-22.3.1.dist-info",
+    "object_type": "File",
+    "name": "top_level.txt",
+    "size_in_bytes": 4
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pip-22.3.1.dist-info",
+    "object_type": "File",
+    "name": "WHEEL",
+    "size_in_bytes": 92
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 108568
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources",
+    "object_type": "Directory",
+    "name": "extern",
+    "size_in_bytes": 5361
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources",
+    "object_type": "Directory",
+    "name": "_vendor",
+    "size_in_bytes": 1295909
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 100564
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\extern",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 2426
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\extern",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 2935
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 2935
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "File",
+    "name": "appdirs.py",
+    "size_in_bytes": 24701
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "File",
+    "name": "zipp.py",
+    "size_in_bytes": 8425
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "Directory",
+    "name": "importlib_resources",
+    "size_in_bytes": 25123
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "Directory",
+    "name": "jaraco",
+    "size_in_bytes": 76242
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "Directory",
+    "name": "more_itertools",
+    "size_in_bytes": 294700
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "Directory",
+    "name": "packaging",
+    "size_in_bytes": 175478
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "Directory",
+    "name": "pyparsing",
+    "size_in_bytes": 670815
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 20425
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "abc.py",
+    "size_in_bytes": 3886
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "readers.py",
+    "size_in_bytes": 3566
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "simple.py",
+    "size_in_bytes": 2836
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_adapters.py",
+    "size_in_bytes": 4504
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_common.py",
+    "size_in_bytes": 2741
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_compat.py",
+    "size_in_bytes": 2706
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_itertools.py",
+    "size_in_bytes": 884
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_legacy.py",
+    "size_in_bytes": 3494
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 506
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+    "object_type": "File",
+    "name": "context.py",
+    "size_in_bytes": 5420
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+    "object_type": "File",
+    "name": "functools.py",
+    "size_in_bytes": 13515
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+    "object_type": "Directory",
+    "name": "text",
+    "size_in_bytes": 35184
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 22123
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 15526
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 19658
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 19658
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__",
+    "object_type": "File",
+    "name": "context.cpython-310.pyc",
+    "size_in_bytes": 6321
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__",
+    "object_type": "File",
+    "name": "functools.cpython-310.pyc",
+    "size_in_bytes": 15613
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 189
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools",
+    "object_type": "File",
+    "name": "more.py",
+    "size_in_bytes": 132569
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools",
+    "object_type": "File",
+    "name": "recipes.py",
+    "size_in_bytes": 18410
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 83
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 143638
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+    "object_type": "File",
+    "name": "more.cpython-310.pyc",
+    "size_in_bytes": 123049
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+    "object_type": "File",
+    "name": "recipes.cpython-310.pyc",
+    "size_in_bytes": 20325
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 264
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "markers.py",
+    "size_in_bytes": 8496
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "requirements.py",
+    "size_in_bytes": 4706
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "specifiers.py",
+    "size_in_bytes": 30110
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "tags.py",
+    "size_in_bytes": 15699
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "utils.py",
+    "size_in_bytes": 4200
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "version.py",
+    "size_in_bytes": 14665
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_manylinux.py",
+    "size_in_bytes": 11488
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_musllinux.py",
+    "size_in_bytes": 4378
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_structures.py",
+    "size_in_bytes": 1431
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "__about__.py",
+    "size_in_bytes": 661
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 497
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 79147
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "markers.cpython-310.pyc",
+    "size_in_bytes": 9297
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "requirements.cpython-310.pyc",
+    "size_in_bytes": 3983
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "specifiers.cpython-310.pyc",
+    "size_in_bytes": 21526
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "tags.cpython-310.pyc",
+    "size_in_bytes": 12195
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "utils.cpython-310.pyc",
+    "size_in_bytes": 3574
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "version.cpython-310.pyc",
+    "size_in_bytes": 12924
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "_manylinux.cpython-310.pyc",
+    "size_in_bytes": 7299
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "_musllinux.cpython-310.pyc",
+    "size_in_bytes": 4611
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "_structures.cpython-310.pyc",
+    "size_in_bytes": 2704
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "__about__.cpython-310.pyc",
+    "size_in_bytes": 589
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 445
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "actions.py",
+    "size_in_bytes": 6426
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "common.py",
+    "size_in_bytes": 12936
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "core.py",
+    "size_in_bytes": 213310
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "exceptions.py",
+    "size_in_bytes": 9023
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "helpers.py",
+    "size_in_bytes": 39129
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "results.py",
+    "size_in_bytes": 25341
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "testing.py",
+    "size_in_bytes": 13402
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "unicode.py",
+    "size_in_bytes": 10787
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "util.py",
+    "size_in_bytes": 6805
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 9159
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "Directory",
+    "name": "diagram",
+    "size_in_bytes": 23668
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 300829
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 23668
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "actions.cpython-310.pyc",
+    "size_in_bytes": 7178
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "common.cpython-310.pyc",
+    "size_in_bytes": 10104
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "core.cpython-310.pyc",
+    "size_in_bytes": 176485
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "exceptions.cpython-310.pyc",
+    "size_in_bytes": 9062
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "helpers.cpython-310.pyc",
+    "size_in_bytes": 35339
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "results.cpython-310.pyc",
+    "size_in_bytes": 24786
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "testing.cpython-310.pyc",
+    "size_in_bytes": 12098
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "unicode.cpython-310.pyc",
+    "size_in_bytes": 10057
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "util.cpython-310.pyc",
+    "size_in_bytes": 8604
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 7116
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__",
+    "object_type": "File",
+    "name": "appdirs.cpython-310.pyc",
+    "size_in_bytes": 20243
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 182
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\pkg_resources\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 100564
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "archive_util.py",
+    "size_in_bytes": 7346
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "build_meta.py",
+    "size_in_bytes": 19539
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "cli-32.exe",
+    "size_in_bytes": 65536
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "cli-64.exe",
+    "size_in_bytes": 74752
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "cli-arm64.exe",
+    "size_in_bytes": 137216
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "cli.exe",
+    "size_in_bytes": 65536
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "depends.py",
+    "size_in_bytes": 5499
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "dep_util.py",
+    "size_in_bytes": 949
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "discovery.py",
+    "size_in_bytes": 20799
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "dist.py",
+    "size_in_bytes": 45578
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "errors.py",
+    "size_in_bytes": 2464
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "extension.py",
+    "size_in_bytes": 5591
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "glob.py",
+    "size_in_bytes": 4873
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "gui-32.exe",
+    "size_in_bytes": 65536
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "gui-64.exe",
+    "size_in_bytes": 75264
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "gui-arm64.exe",
+    "size_in_bytes": 137728
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "gui.exe",
+    "size_in_bytes": 65536
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "installer.py",
+    "size_in_bytes": 3824
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "launch.py",
+    "size_in_bytes": 812
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "logging.py",
+    "size_in_bytes": 1210
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "monkey.py",
+    "size_in_bytes": 4857
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "msvc.py",
+    "size_in_bytes": 47724
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "namespaces.py",
+    "size_in_bytes": 3093
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "package_index.py",
+    "size_in_bytes": 40329
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "py34compat.py",
+    "size_in_bytes": 245
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "sandbox.py",
+    "size_in_bytes": 14348
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "script (dev).tmpl",
+    "size_in_bytes": 218
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "script.tmpl",
+    "size_in_bytes": 138
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "unicode_utils.py",
+    "size_in_bytes": 941
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "version.py",
+    "size_in_bytes": 144
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "wheel.py",
+    "size_in_bytes": 8376
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "windows_support.py",
+    "size_in_bytes": 718
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "_deprecation_warning.py",
+    "size_in_bytes": 218
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "_entry_points.py",
+    "size_in_bytes": 1972
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "_imp.py",
+    "size_in_bytes": 2392
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "_importlib.py",
+    "size_in_bytes": 1311
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "_itertools.py",
+    "size_in_bytes": 675
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "_path.py",
+    "size_in_bytes": 749
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "_reqs.py",
+    "size_in_bytes": 501
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 8429
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "Directory",
+    "name": "command",
+    "size_in_bytes": 267898
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "Directory",
+    "name": "config",
+    "size_in_bytes": 369045
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "Directory",
+    "name": "extern",
+    "size_in_bytes": 2512
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "Directory",
+    "name": "_distutils",
+    "size_in_bytes": 604933
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools",
+    "object_type": "Directory",
+    "name": "_vendor",
+    "size_in_bytes": 839953
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "alias.py",
+    "size_in_bytes": 2381
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "bdist_egg.py",
+    "size_in_bytes": 16623
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "bdist_rpm.py",
+    "size_in_bytes": 1182
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "build.py",
+    "size_in_bytes": 6589
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "build_clib.py",
+    "size_in_bytes": 4415
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "build_ext.py",
+    "size_in_bytes": 15821
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "build_py.py",
+    "size_in_bytes": 14115
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "develop.py",
+    "size_in_bytes": 7012
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "dist_info.py",
+    "size_in_bytes": 4800
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "easy_install.py",
+    "size_in_bytes": 85662
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "editable_wheel.py",
+    "size_in_bytes": 31188
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "egg_info.py",
+    "size_in_bytes": 26795
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "install.py",
+    "size_in_bytes": 5163
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "install_egg_info.py",
+    "size_in_bytes": 2226
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "install_lib.py",
+    "size_in_bytes": 3875
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "install_scripts.py",
+    "size_in_bytes": 2612
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "launcher manifest.xml",
+    "size_in_bytes": 628
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "py36compat.py",
+    "size_in_bytes": 4946
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "register.py",
+    "size_in_bytes": 468
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "rotate.py",
+    "size_in_bytes": 2128
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "saveopts.py",
+    "size_in_bytes": 658
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "sdist.py",
+    "size_in_bytes": 7071
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "setopt.py",
+    "size_in_bytes": 5086
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "test.py",
+    "size_in_bytes": 8102
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "upload.py",
+    "size_in_bytes": 462
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "upload_docs.py",
+    "size_in_bytes": 7494
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\command",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 396
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config",
+    "object_type": "File",
+    "name": "expand.py",
+    "size_in_bytes": 16319
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config",
+    "object_type": "File",
+    "name": "pyprojecttoml.py",
+    "size_in_bytes": 19304
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config",
+    "object_type": "File",
+    "name": "setupcfg.py",
+    "size_in_bytes": 25198
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config",
+    "object_type": "File",
+    "name": "_apply_pyprojecttoml.py",
+    "size_in_bytes": 13398
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 1121
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config",
+    "object_type": "Directory",
+    "name": "_validate_pyproject",
+    "size_in_bytes": 293705
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+    "object_type": "File",
+    "name": "error_reporting.py",
+    "size_in_bytes": 11266
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+    "object_type": "File",
+    "name": "extra_validations.py",
+    "size_in_bytes": 1153
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+    "object_type": "File",
+    "name": "fastjsonschema_exceptions.py",
+    "size_in_bytes": 1612
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+    "object_type": "File",
+    "name": "fastjsonschema_validations.py",
+    "size_in_bytes": 269900
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+    "object_type": "File",
+    "name": "formats.py",
+    "size_in_bytes": 8736
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 1038
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\extern",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 2512
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "archive_util.py",
+    "size_in_bytes": 8603
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "bcppcompiler.py",
+    "size_in_bytes": 14789
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "ccompiler.py",
+    "size_in_bytes": 47369
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "cmd.py",
+    "size_in_bytes": 17973
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "config.py",
+    "size_in_bytes": 4920
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "core.py",
+    "size_in_bytes": 9451
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "cygwinccompiler.py",
+    "size_in_bytes": 12537
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "debug.py",
+    "size_in_bytes": 139
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "dep_util.py",
+    "size_in_bytes": 3423
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "dir_util.py",
+    "size_in_bytes": 8082
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "dist.py",
+    "size_in_bytes": 50186
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "errors.py",
+    "size_in_bytes": 3589
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "extension.py",
+    "size_in_bytes": 10270
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "fancy_getopt.py",
+    "size_in_bytes": 17910
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "filelist.py",
+    "size_in_bytes": 13713
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "file_util.py",
+    "size_in_bytes": 8226
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "log.py",
+    "size_in_bytes": 1972
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "msvc9compiler.py",
+    "size_in_bytes": 30235
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "msvccompiler.py",
+    "size_in_bytes": 23602
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "py38compat.py",
+    "size_in_bytes": 217
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "py39compat.py",
+    "size_in_bytes": 639
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "spawn.py",
+    "size_in_bytes": 3517
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "sysconfig.py",
+    "size_in_bytes": 18858
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "text_file.py",
+    "size_in_bytes": 12096
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "unixccompiler.py",
+    "size_in_bytes": 15641
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "util.py",
+    "size_in_bytes": 18128
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "version.py",
+    "size_in_bytes": 12952
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "versionpredicate.py",
+    "size_in_bytes": 5248
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "_collections.py",
+    "size_in_bytes": 1330
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "_functools.py",
+    "size_in_bytes": 411
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "_macos_compat.py",
+    "size_in_bytes": 239
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "_msvccompiler.py",
+    "size_in_bytes": 19672
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 537
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils",
+    "object_type": "Directory",
+    "name": "command",
+    "size_in_bytes": 208459
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "bdist.py",
+    "size_in_bytes": 5441
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "bdist_dumb.py",
+    "size_in_bytes": 4701
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "bdist_rpm.py",
+    "size_in_bytes": 22051
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "build.py",
+    "size_in_bytes": 5617
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "build_clib.py",
+    "size_in_bytes": 7728
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "build_ext.py",
+    "size_in_bytes": 31558
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "build_py.py",
+    "size_in_bytes": 16568
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "build_scripts.py",
+    "size_in_bytes": 5624
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "check.py",
+    "size_in_bytes": 4888
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "clean.py",
+    "size_in_bytes": 2603
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "config.py",
+    "size_in_bytes": 13137
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "install.py",
+    "size_in_bytes": 30221
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "install_data.py",
+    "size_in_bytes": 2779
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "install_egg_info.py",
+    "size_in_bytes": 2785
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "install_headers.py",
+    "size_in_bytes": 1189
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "install_lib.py",
+    "size_in_bytes": 8434
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "install_scripts.py",
+    "size_in_bytes": 1936
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "py37compat.py",
+    "size_in_bytes": 672
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "register.py",
+    "size_in_bytes": 11765
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "sdist.py",
+    "size_in_bytes": 19241
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "upload.py",
+    "size_in_bytes": 7477
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "_framework_compat.py",
+    "size_in_bytes": 1614
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 430
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "File",
+    "name": "ordered_set.py",
+    "size_in_bytes": 15130
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "File",
+    "name": "typing_extensions.py",
+    "size_in_bytes": 87149
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "File",
+    "name": "zipp.py",
+    "size_in_bytes": 8425
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "Directory",
+    "name": "importlib_metadata",
+    "size_in_bytes": 42846
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "Directory",
+    "name": "importlib_resources",
+    "size_in_bytes": 25123
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "Directory",
+    "name": "jaraco",
+    "size_in_bytes": 34449
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "Directory",
+    "name": "more_itertools",
+    "size_in_bytes": 134297
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "Directory",
+    "name": "packaging",
+    "size_in_bytes": 96322
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "Directory",
+    "name": "pyparsing",
+    "size_in_bytes": 369986
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor",
+    "object_type": "Directory",
+    "name": "tomli",
+    "size_in_bytes": 26226
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+    "object_type": "File",
+    "name": "_adapters.py",
+    "size_in_bytes": 1862
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+    "object_type": "File",
+    "name": "_collections.py",
+    "size_in_bytes": 743
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+    "object_type": "File",
+    "name": "_compat.py",
+    "size_in_bytes": 1828
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+    "object_type": "File",
+    "name": "_functools.py",
+    "size_in_bytes": 2895
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+    "object_type": "File",
+    "name": "_itertools.py",
+    "size_in_bytes": 2068
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+    "object_type": "File",
+    "name": "_meta.py",
+    "size_in_bytes": 1154
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+    "object_type": "File",
+    "name": "_text.py",
+    "size_in_bytes": 2166
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 30130
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "abc.py",
+    "size_in_bytes": 3886
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "readers.py",
+    "size_in_bytes": 3566
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "simple.py",
+    "size_in_bytes": 2836
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_adapters.py",
+    "size_in_bytes": 4504
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_common.py",
+    "size_in_bytes": 2741
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_compat.py",
+    "size_in_bytes": 2706
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_itertools.py",
+    "size_in_bytes": 884
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "_legacy.py",
+    "size_in_bytes": 3494
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 506
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco",
+    "object_type": "File",
+    "name": "context.py",
+    "size_in_bytes": 5420
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco",
+    "object_type": "File",
+    "name": "functools.py",
+    "size_in_bytes": 13512
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco",
+    "object_type": "Directory",
+    "name": "text",
+    "size_in_bytes": 15517
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 15517
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools",
+    "object_type": "File",
+    "name": "more.py",
+    "size_in_bytes": 117959
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools",
+    "object_type": "File",
+    "name": "recipes.py",
+    "size_in_bytes": 16256
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 82
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "markers.py",
+    "size_in_bytes": 8493
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "requirements.py",
+    "size_in_bytes": 4700
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "specifiers.py",
+    "size_in_bytes": 30110
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "tags.py",
+    "size_in_bytes": 15699
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "utils.py",
+    "size_in_bytes": 4200
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "version.py",
+    "size_in_bytes": 14665
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_manylinux.py",
+    "size_in_bytes": 11488
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_musllinux.py",
+    "size_in_bytes": 4378
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "_structures.py",
+    "size_in_bytes": 1431
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "__about__.py",
+    "size_in_bytes": 661
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 497
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "actions.py",
+    "size_in_bytes": 6426
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "common.py",
+    "size_in_bytes": 12936
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "core.py",
+    "size_in_bytes": 213310
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "exceptions.py",
+    "size_in_bytes": 9023
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "helpers.py",
+    "size_in_bytes": 39129
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "results.py",
+    "size_in_bytes": 25341
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "testing.py",
+    "size_in_bytes": 13402
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "unicode.py",
+    "size_in_bytes": 10787
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "util.py",
+    "size_in_bytes": 6805
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 9159
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing",
+    "object_type": "Directory",
+    "name": "diagram",
+    "size_in_bytes": 23668
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 23668
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+    "object_type": "File",
+    "name": "_parser.py",
+    "size_in_bytes": 22633
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+    "object_type": "File",
+    "name": "_re.py",
+    "size_in_bytes": 2943
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+    "object_type": "File",
+    "name": "_types.py",
+    "size_in_bytes": 254
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 396
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+    "object_type": "File",
+    "name": "entry_points.txt",
+    "size_in_bytes": 2740
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+    "object_type": "File",
+    "name": "INSTALLER",
+    "size_in_bytes": 5
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+    "object_type": "File",
+    "name": "LICENSE",
+    "size_in_bytes": 1050
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+    "object_type": "File",
+    "name": "METADATA",
+    "size_in_bytes": 6311
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+    "object_type": "File",
+    "name": "RECORD",
+    "size_in_bytes": 35656
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+    "object_type": "File",
+    "name": "top_level.txt",
+    "size_in_bytes": 41
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\setuptools-65.5.1.dist-info",
+    "object_type": "File",
+    "name": "WHEEL",
+    "size_in_bytes": 92
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "File",
+    "name": "bdist_wheel.py",
+    "size_in_bytes": 19293
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "File",
+    "name": "macosx_libfile.py",
+    "size_in_bytes": 16145
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "File",
+    "name": "metadata.py",
+    "size_in_bytes": 3727
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "File",
+    "name": "util.py",
+    "size_in_bytes": 621
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "File",
+    "name": "wheelfile.py",
+    "size_in_bytes": 7536
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "File",
+    "name": "_setuptools_logging.py",
+    "size_in_bytes": 746
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 59
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "File",
+    "name": "__main__.py",
+    "size_in_bytes": 455
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "Directory",
+    "name": "cli",
+    "size_in_bytes": 15853
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel",
+    "object_type": "Directory",
+    "name": "vendored",
+    "size_in_bytes": 31475
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\cli",
+    "object_type": "File",
+    "name": "convert.py",
+    "size_in_bytes": 9427
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\cli",
+    "object_type": "File",
+    "name": "pack.py",
+    "size_in_bytes": 3383
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\cli",
+    "object_type": "File",
+    "name": "unpack.py",
+    "size_in_bytes": 659
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\cli",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 2384
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\vendored",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\vendored",
+    "object_type": "Directory",
+    "name": "packaging",
+    "size_in_bytes": 31475
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging",
+    "object_type": "File",
+    "name": "tags.py",
+    "size_in_bytes": 15612
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging",
+    "object_type": "File",
+    "name": "_manylinux.py",
+    "size_in_bytes": 11489
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging",
+    "object_type": "File",
+    "name": "_musllinux.py",
+    "size_in_bytes": 4374
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 0
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+    "object_type": "File",
+    "name": "entry_points.txt",
+    "size_in_bytes": 107
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+    "object_type": "File",
+    "name": "INSTALLER",
+    "size_in_bytes": 5
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+    "object_type": "File",
+    "name": "LICENSE.txt",
+    "size_in_bytes": 1107
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+    "object_type": "File",
+    "name": "METADATA",
+    "size_in_bytes": 2110
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+    "object_type": "File",
+    "name": "RECORD",
+    "size_in_bytes": 2835
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+    "object_type": "File",
+    "name": "top_level.txt",
+    "size_in_bytes": 6
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\wheel-0.38.4.dist-info",
+    "object_type": "File",
+    "name": "WHEEL",
+    "size_in_bytes": 92
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\_distutils_hack",
+    "object_type": "File",
+    "name": "override.py",
+    "size_in_bytes": 44
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\_distutils_hack",
+    "object_type": "File",
+    "name": "__init__.py",
+    "size_in_bytes": 6128
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\_distutils_hack",
+    "object_type": "Directory",
+    "name": "__pycache__",
+    "size_in_bytes": 7580
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__",
+    "object_type": "File",
+    "name": "__init__.cpython-310.pyc",
+    "size_in_bytes": 7580
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Lib\\site-packages\\__pycache__",
+    "object_type": "File",
+    "name": "_virtualenv.cpython-310.pyc",
+    "size_in_bytes": 4040
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "activate",
+    "size_in_bytes": 2160
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "activate.bat",
+    "size_in_bytes": 1013
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "activate.fish",
+    "size_in_bytes": 3037
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "activate.nu",
+    "size_in_bytes": 2593
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "activate.ps1",
+    "size_in_bytes": 1758
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "activate_this.py",
+    "size_in_bytes": 1169
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "deactivate.bat",
+    "size_in_bytes": 511
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "deactivate.nu",
+    "size_in_bytes": 682
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "pip-3.10.exe",
+    "size_in_bytes": 108415
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "pip.exe",
+    "size_in_bytes": 108415
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "pip3.10.exe",
+    "size_in_bytes": 108415
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "pip3.exe",
+    "size_in_bytes": 108415
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "pydoc.bat",
+    "size_in_bytes": 24
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "python.exe",
+    "size_in_bytes": 263120
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "pythonw.exe",
+    "size_in_bytes": 251856
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "wheel-3.10.exe",
+    "size_in_bytes": 108402
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "wheel.exe",
+    "size_in_bytes": 108402
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "wheel3.10.exe",
+    "size_in_bytes": 108402
+  },
+  {
+    "parent_directory": "C:\\Users\\Geo\\Desktop\\GB_Python_8\\venv\\Scripts",
+    "object_type": "File",
+    "name": "wheel3.exe",
+    "size_in_bytes": 108402
+  }
+]
